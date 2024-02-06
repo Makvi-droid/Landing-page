@@ -3,13 +3,50 @@
     padding: 0;
 }
 
-.first{
-    height: 6cm;
+.background1{
+    height: 15cm;
     width: auto;
-    background-color: #000d2b;
+    background-color: #263447;
     color: white;
 }
 
+
+
 .header{
-    font-family: 'Montserrat'
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 22px;
+    font-family: 'Ubuntu';
 }
+
+.header-logo{
+    display: flex;
+    padding-left: 4cm;
+    font-weight: bold;
+}
+
+.nav{
+    padding-right: 5cm;
+}
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1.3cm;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.description{
+    
+}
+
+
+
+
+
