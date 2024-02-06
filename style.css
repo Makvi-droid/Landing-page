@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    height: 6cm;
+    width: auto;
+    background-color: #000d2b;
+    color: white;
+}
+
+.header{
+    font-family: 'Montserrat'
+}
