@@ -42,8 +42,53 @@ a{
     color: whitesmoke;
 }
 
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 6.7cm;
+    width: 6in;
+    background-color: #8c8d8f;
+    position: relative;
+    left: 8.8in;
+    bottom: 7.2cm;
+    font-family: 'Roboto';
+}
+
 .description{
-    
+    padding-top: 3cm;
+    padding-left: 3cm;
+}
+
+.main-text{
+    font-size: 40px;
+    font-family: 'Oswald';
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.sub-text{
+    font-size: 17px;
+    font-family: 'Roboto';
+    font-weight: 800;
+}
+
+.awesome{
+    display: block;
+}
+
+.btn{
+    display: block;
+    height: 30px;
+    width: 96px;
+    border-radius: 8px;
+    background-color: #266cc9;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: 900;
+    letter-spacing: 2px;
+    border: none;
+    cursor: pointer;
 }
 
 
