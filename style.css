@@ -178,6 +178,14 @@ a{
     font-style: italic;
 }
 
+#thor{
+    position: relative;
+    left: 5in;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+}
+
 
 
 
