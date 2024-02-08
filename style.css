@@ -186,6 +186,52 @@ a{
     font-weight: bold;
 }
 
+.container{
+    margin: 110px;
+}
+
+.container.box-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-container{
+    height: 4cm;
+    width: 13in;
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.action{
+    font-weight: bold;
+}
+
+.text{
+    color: white;
+    font-family: 'Roboto';
+    position: relative;
+    right: 6cm;
+}
+
+.sign-up-btn{
+    height: 32px;
+    width: 2.7cm;
+    border-radius: 6px;
+    border: solid 2px whitesmoke;
+    cursor: pointer;
+    background-color: #3882F6;
+    color: whitesmoke;
+    font-weight: bold;
+    position: relative;
+    left: 6cm;
+}
+
+
 
 
 
