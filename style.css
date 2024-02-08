@@ -161,13 +161,21 @@ a{
 }
 
 .part-three{
-    height: 5cm;
+    margin-top: 4cm;
+    height: 13.5cm;
     width: auto;
     background-color: #E5E7EB;
+    justify-content: center;
 }
 
 .quote{
-    padding-top: 4cm;
+    justify-content: center;
+    font-size: 36px;
+    position: relative;
+    padding-left: 12.2cm;
+    top: 4.3cm;
+    font-family: 'Roboto';
+    font-style: italic;
 }
 
 
