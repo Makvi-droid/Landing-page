@@ -187,7 +187,7 @@ a{
 }
 
 .container{
-    margin: 110px;
+    margin: 170px;
 }
 
 .container.box-container{
@@ -229,6 +229,21 @@ a{
     font-weight: bold;
     position: relative;
     left: 6cm;
+}
+
+.footer{
+    height: 3cm;
+    width: auto;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.footer-content{
+    color: whitesmoke;
+    font-family: 'Roboto';
 }
 
 
