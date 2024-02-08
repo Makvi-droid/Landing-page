@@ -136,28 +136,38 @@ a{
     font-weight: 300;
 }
 
-#text-1{
+.text-1{
     padding-top: 4.7cm;
     color: black;
     font-family: 'Roboto';
 }
 
-#text-2{
+.text-2{
     padding-top: 4.7cm;
     color: black;
     font-family: 'Roboto';
 }
 
-#text-3{
+.text-3{
     padding-top: 4.7cm;
     color: black;
     font-family: 'Roboto';
 }
 
-#text-4{
+.text-4{
     padding-top: 4.7cm;
     color: black;
     font-family: 'Roboto';
+}
+
+.part-three{
+    height: 5cm;
+    width: auto;
+    background-color: #E5E7EB;
+}
+
+.quote{
+    padding-top: 4cm;
 }
 
 
